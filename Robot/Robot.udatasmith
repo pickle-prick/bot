@@ -1,0 +1,553 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>5.6.1-46302893</SDKVersion>
+	<Host>StdMaterial</Host>
+	<Application Vendor="Solidworks" ProductName="Solidworks" ProductVersion=""/>
+	<ResourcePath>D:/Data/Work/DigitalTwin/Demo/HSRRobot/SW</ResourcePath>
+	<User ID="ea0ae37141ac3a25df57b0a8c7caf7c5" OS="Windows 11 (25H2) [10.0.26200.8037]"/>
+	<Geolocation/>
+	<StaticMesh name="Flange-1_Mesh" label="Flange-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Flange-1_Mesh.udsmesh"/>
+		<Size a="84.012268" x="5.599814" y="5.665" z="1.55"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62f387db22a0bdfd74a69ea86faab487"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="1688853798" name="color_1688853798_"/>
+		<Material id="2133230634" name="color_2133230634_"/>
+	</StaticMesh>
+	<StaticMesh name="Tool-1_Mesh" label="Tool-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Tool-1_Mesh.udsmesh"/>
+		<Size a="154.066299" x="13.0" y="5.189739" z="5.2"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="72e8a8a6037dc763b61685257f7752d3"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+	</StaticMesh>
+	<StaticMesh name="Base-1_Mesh" label="Base-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Base-1_Mesh.udsmesh"/>
+		<Size a="3206.729492" x="17.5" y="23.950001" z="25.050001"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="770f8c6deebd863bb4d97cf6767996e6"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="2133230634" name="color_2133230634_"/>
+	</StaticMesh>
+	<StaticMesh name="Link_4-1_Mesh" label="Link_4-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Link_4-1_Mesh.udsmesh"/>
+		<Size a="1751.859497" x="15.000001" y="10.560011" z="23.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4b19e986c629f3640330aa8b6c001977"/>
+		<Material id="1822932812" name="color_1822932812_"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="2133230634" name="color_2133230634_"/>
+		<Material id="1688853798" name="color_1688853798_"/>
+		<Material id="1547739132" name="color_1547739132_"/>
+	</StaticMesh>
+	<StaticMesh name="Link_2-2_Mesh" label="Link_2-2_Mesh">
+		<file path="HSR-JR603-570_Assets/Link_2-2_Mesh.udsmesh"/>
+		<Size a="2449.47583" x="14.292892" y="40.626003" z="20.799955"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d8a64890c8b5b63ec7cc800acf0ac7d2"/>
+		<Material id="761471986" name="color_761471986_"/>
+		<Material id="942630006" name="color_942630006_"/>
+		<Material id="1822932812" name="color_1822932812_"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="1099162466" name="color_1099162466_"/>
+		<Material id="1035580548" name="color_1035580548_"/>
+		<Material id="2093368689" name="color_2093368689_"/>
+		<Material id="917315347" name="color_917315347_"/>
+		<Material id="428116598" name="color_428116598_"/>
+		<Material id="1688853798" name="color_1688853798_"/>
+		<Material id="2099417893" name="color_2099417893_"/>
+	</StaticMesh>
+	<StaticMesh name="Link_5-1_Mesh" label="Link_5-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Link_5-1_Mesh.udsmesh"/>
+		<Size a="571.502869" x="8.000009" y="8.480073" z="11.15"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f62496d78eac127098ba11ad0bb20c29"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="1822932812" name="color_1822932812_"/>
+		<Material id="1547739132" name="color_1547739132_"/>
+	</StaticMesh>
+	<StaticMesh name="Link_1-1_Mesh" label="Link_1-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Link_1-1_Mesh.udsmesh"/>
+		<Size a="2118.550781" x="14.015" y="19.691471" z="23.14991"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="021d6ecfa33eb84c0d9701e552466cf0"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="1822932812" name="color_1822932812_"/>
+		<Material id="1547739132" name="color_1547739132_"/>
+		<Material id="1688853798" name="color_1688853798_"/>
+	</StaticMesh>
+	<StaticMesh name="Link_3-1_Mesh" label="Link_3-1_Mesh">
+		<file path="HSR-JR603-570_Assets/Link_3-1_Mesh.udsmesh"/>
+		<Size a="1736.837036" x="14.761076" y="11.200422" z="19.25"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="97e0355cb3de0c7104f481a33a48134c"/>
+		<Material id="1822932812" name="color_1822932812_"/>
+		<Material id="1041107956" name="color_1041107956_"/>
+		<Material id="1547739132" name="color_1547739132_"/>
+		<Material id="1688853798" name="color_1688853798_"/>
+	</StaticMesh>
+	<Actor name="HSR-JR603-570" label="HSR-JR603-570" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="F941CB6E9EA0E6BF000000000000000000000000000000809F35335E9EA0E63F"/>
+		<tag value="HSR-JR603-570" />
+		<children visible="true">
+			<ActorMesh name="Base-1" label="Base-1" mobility="Static">
+				<mesh name="Base-1_Mesh"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex64="F941CB6E9EA0E6BF000000000000000000000000000000809F35335E9EA0E63F"/>
+				<tag value="Base-1" />
+			</ActorMesh>
+			<ActorMesh name="Link_1-1" label="Link_1-1" mobility="Static">
+				<mesh name="Link_1-1_Mesh"/>
+				<Transform tx="0.0" ty="0.000002" tz="34.850002" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="0.5" qz="0.5" qw="0.5" qhex64="1D2D44F4FFFFDF3F6EE9DD050000E03F1E2D44F4FFFFDF3F71E9DD050000E03F"/>
+				<tag value="Link_1-1" />
+			</ActorMesh>
+			<ActorMesh name="Link_3-1" label="Link_3-1" mobility="Static">
+				<mesh name="Link_3-1_Mesh"/>
+				<Transform tx="-0.0" ty="10.000003" tz="66.25" sx="1.0" sy="1.0" sz="1.0" qx="0.5" qy="-0.5" qz="0.5" qw="0.5" qhex64="1D2D44F4FFFFDF3F1D2D44F4FFFFDFBF6EE9DD050000E03F71E9DD050000E03F"/>
+				<tag value="Link_3-1" />
+			</ActorMesh>
+			<ActorMesh name="Link_5-1" label="Link_5-1" mobility="Static">
+				<mesh name="Link_5-1_Mesh"/>
+				<Transform tx="-0.0" ty="28.650003" tz="61.25" sx="1.0" sy="1.0" sz="1.0" qx="-1.0" qy="0.0" qz="0.0" qw="-0.0" qhex64="FDFFFFFFFFFFEFBF1032FFFDFF5F943C105DE2DD0FDA753C393BCBBDA57757BE"/>
+				<tag value="Link_5-1" />
+			</ActorMesh>
+			<ActorMesh name="Flange-1" label="Flange-1" mobility="Static">
+				<mesh name="Flange-1_Mesh"/>
+				<Transform tx="-0.0" ty="28.650003" tz="61.25" sx="1.0" sy="1.0" sz="1.0" qx="-1.0" qy="0.0" qz="-0.0" qw="-0.0" qhex64="FDFFFFFFFFFFEFBF41C60000DDF4323D5B87816462E580BC393BCBBDA57757BE"/>
+				<tag value="Flange-1" />
+			</ActorMesh>
+			<ActorMesh name="Link_4-1" label="Link_4-1" mobility="Static">
+				<mesh name="Link_4-1_Mesh"/>
+				<Transform tx="-0.0" ty="9.850002" tz="66.25" sx="1.0" sy="1.0" sz="1.0" qx="-0.0" qy="0.707107" qz="0.707107" qw="0.0" qhex64="3E8FFEB2A0AA82BCF741CB6E9EA0E63F9D35335E9EA0E63F075C143326A6A13C"/>
+				<tag value="Link_4-1" />
+			</ActorMesh>
+			<ActorMesh name="Link_2-2" label="Link_2-2" mobility="Static">
+				<mesh name="Link_2-2_Mesh"/>
+				<Transform tx="0.75" ty="-0.983666" tz="48.783405" sx="1.0" sy="1.0" sz="1.0" qx="-0.482073" qy="0.517306" qz="-0.482073" qw="0.517306" qhex64="2B0A30B548DADEBFA9C56991C58DE03F2D0A30B548DADEBFACC56991C58DE03F"/>
+				<tag value="Link_2-2" />
+			</ActorMesh>
+			<ActorMesh name="Tool-1" label="Tool-1" mobility="Static">
+				<mesh name="Tool-1_Mesh"/>
+				<Transform tx="-0.0" ty="28.650003" tz="58.099998" sx="1.0" sy="1.0" sz="1.0" qx="-0.662795" qy="0.24638" qz="0.662795" qw="0.24638" qhex64="F5CE8F5B9D35E5BFD688C07F6189CF3FE8A4C7559D35E53F812F89416189CF3F"/>
+				<tag value="Tool-1" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Light name="线光源_-1" type="DirectionalLight" enabled="1" label="线光源_4" mobility="Static">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.218681" qy="0.397934" qz="-0.4291" qw="0.780833" qhex64="8F94EF54BDFDCB3FFAF00463C177D93F38BDD3DD5D76DBBF69C1BAEF95FCE83F"/>
+		<Color usetemp="0" temperature="6500.0" R="1.0" G="1.0" B="1.0"/>
+		<Intensity value="420.0"/>
+		<tag value="线光源 -1" />
+	</Light>
+	<MaterialInstance name="color_1041107956_"  label="color_1041107956_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_2133230634_"  label="color_2133230634_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.170000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_1688853798_"  label="color_1688853798_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.250980,G=0.250980,B=0.250980,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.160000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_1547739132_"  label="color_1547739132_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=0.000000,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.170000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_1822932812_"  label="color_1822932812_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.792157,G=0.819608,B=0.933333,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.170000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_1035580548_"  label="color_1035580548_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.752941,G=0.752941,B=0.752941,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_2099417893_"  label="color_2099417893_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.776471,G=0.756863,B=0.737255,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_761471986_"  label="color_761471986_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=1.000000,G=0.039216,B=0.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_942630006_"  label="color_942630006_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.152941,G=0.541176,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_2093368689_"  label="color_2093368689_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.890196,G=0.890196,B=0.913725,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_428116598_"  label="color_428116598_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.890196,G=0.913725,B=0.929412,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_917315347_"  label="color_917315347_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.184314,G=0.513726,B=1.000000,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MaterialInstance name="color_1099162466_"  label="color_1099162466_" Type="1" Quality="0" >
+		<KeyValueProperty name="TintColor" type="Color" val="(R=0.439216,G=0.439216,B=0.439216,A=1.000000)"/>
+		<KeyValueProperty name="RoughnessAmount" type="Float" val="0.180000"/>
+		<KeyValueProperty name="MetallicAmount" type="Float" val="0.000000"/>
+	</MaterialInstance>
+	<MetaData name="HSR-JR603-570_DATA" reference="Actor.HSR-JR603-570">
+		<KeyValueProperty name="Document_Type" type="String" val="Assembly"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="HSR-JR603-570.SLDASM"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val="2020/3/11 2:51:18"/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val="2020年3月11日 2:51:18"/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/12 10:31:26"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月12日 10:31:26"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="18430.890"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="18430.890"/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="ActiveDisplayState" type="String" val="默认_显示状态-1"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Link_1-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Link_1-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Link_2-2" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Link_2-2" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Base-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Base-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Tool-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Tool-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Link_4-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Link_4-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Flange-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Flange-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Link_5-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Link_5-1" type="String" val="swTransparencyStateNonTransparent"/>
+		<KeyValueProperty name="Component_Display_State_DisplayMode_Link_3-1" type="String" val="swDisplayModeDEFAULT"/>
+		<KeyValueProperty name="Component_Display_State_Transparency_Link_3-1" type="String" val="swTransparencyStateNonTransparent"/>
+	</MetaData>
+	<MetaData name="Base-1_DATA" reference="Actor.Base-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Base.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val=""/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:13:50"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:13:50"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="6.122"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="6.122"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="6.122"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val="  "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<MetaData name="Link_1-1_DATA" reference="Actor.Link_1-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Link_1.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val=""/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 11:15:23"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 11:15:23"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="2.698"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="2.698"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="2.698"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val="  "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<MetaData name="Link_3-1_DATA" reference="Actor.Link_3-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Link_3.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val=""/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:13:50"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:13:50"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="1.709"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="1.709"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="1.709"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val="  "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<MetaData name="Link_5-1_DATA" reference="Actor.Link_5-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Link_5.sldprt"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val=""/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:32:44"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:32:44"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="0.413"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="0.413"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="0.413"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val="  "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<MetaData name="Flange-1_DATA" reference="Actor.Flange-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Flange.sldprt"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val="2020/3/11 11:56:32"/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val="2020年3月11日 11:56:32"/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:13:50"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:13:50"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+	</MetaData>
+	<MetaData name="Link_4-1_DATA" reference="Actor.Link_4-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Link_4.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val="2020/3/12 17:52:35"/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val="2020年3月12日 17:52:35"/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:13:50"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:13:50"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="1.915"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="1.915"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="1.915"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val="  "/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<MetaData name="Link_2-2_DATA" reference="Actor.Link_2-2">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Link_2.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val="2024/6/20 15:44:13"/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val="2024年6月20日 15:44:13"/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/3/3 10:13:50"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年3月3日 10:13:50"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_设计软件" type="String" val="迈迪三维设计工具集"/>
+	</MetaData>
+	<MetaData name="Tool-1_DATA" reference="Actor.Tool-1">
+		<KeyValueProperty name="Document_Type" type="String" val="Part"/>
+		<KeyValueProperty name="Document_Filename" type="String" val="Tool.SLDPRT"/>
+		<KeyValueProperty name="Document_Author" type="String" val=""/>
+		<KeyValueProperty name="Document_Comment" type="String" val=""/>
+		<KeyValueProperty name="Document_CreateDate" type="String" val="2025/12/9 18:09:29"/>
+		<KeyValueProperty name="Document_CreateDate2" type="String" val="2025年12月9日 18:09:29"/>
+		<KeyValueProperty name="Document_Keywords" type="String" val=""/>
+		<KeyValueProperty name="Document_SaveDate" type="String" val="2026/1/30 14:16:34"/>
+		<KeyValueProperty name="Document_SaveDate2" type="String" val="2026年1月30日 14:16:34"/>
+		<KeyValueProperty name="Document_SavedBy" type="String" val="LYF"/>
+		<KeyValueProperty name="Document_Subject" type="String" val=""/>
+		<KeyValueProperty name="Document_Title" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Description" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_Weight" type="String" val="0.095"/>
+		<KeyValueProperty name="Document_Custom_Property_Material" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_质量" type="String" val="0.095"/>
+		<KeyValueProperty name="Document_Custom_Property_材料" type="String" val="材质 &lt;未指定&gt;"/>
+		<KeyValueProperty name="Document_Custom_Property_单重" type="String" val="0.095"/>
+		<KeyValueProperty name="Document_Custom_Property_零件号" type="String" val=""/>
+		<KeyValueProperty name="Document_Custom_Property_设计" type="String" val="   "/>
+		<KeyValueProperty name="Document_Custom_Property_审核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_标准审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_工艺审查" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_批准" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_日期" type="String" val="2007,12,3"/>
+		<KeyValueProperty name="Document_Custom_Property_校核" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_主管设计" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_校对" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_审定" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记S" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记A" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_阶段标记B" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_替代" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_图幅" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_版本" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_备注" type="String" val=" "/>
+		<KeyValueProperty name="Document_Custom_Property_名称" type="String" val="“图样名称”"/>
+		<KeyValueProperty name="Document_Custom_Property_代号" type="String" val="“图样代号”"/>
+		<KeyValueProperty name="Document_Custom_Property_共X张" type="String" val="1"/>
+		<KeyValueProperty name="Document_Custom_Property_第X张" type="String" val="1"/>
+	</MetaData>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,14 @@
+[project]
+name = "robot-sequence-render"
+version = "0.1.0"
+description = "Render a robot OBJ sequence from CSV pose tracks."
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "trimesh",
+    "pyrender",
+    "pyglet<2",
+]
+
+[tool.uv]
+package = false
