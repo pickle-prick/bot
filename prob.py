@@ -10,11 +10,12 @@ from dataclasses import dataclass
 type Color = tuple[int,int,int]
 setattr(np, "infty", np.inf)
 
+# FIXME: maybe we don't need this, we could just compute a offset matrix from known values
 OBJ_TO_SCENE_BASIS = (
-    (1.0, 0.0, 0.0, 0.0),
-    (0.0, 0.0, 1.0, 0.0),
-    (0.0, 1.0, 0.0, 0.0),
-    (0.0, 0.0, 0.0, 1.0),
+  (1.0, 0.0, 0.0, 0.0),
+  (0.0, 0.0, 1.0, 0.0),
+  (0.0, 1.0, 0.0, 0.0),
+  (0.0, 0.0, 0.0, 1.0),
 )
 
 @dataclass(frozen=True)
