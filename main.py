@@ -31,7 +31,7 @@ class PoseSample:
 
 
 PARTS: tuple[PartSpec, ...] = (
-    PartSpec("Base-1_Mesh", "Base-1_Mesh.OBJ", None, None, None, (160, 160, 160)),
+    PartSpec("Base-1_Mesh", "Base-1_Mesh.OBJ", None, None, None, (16, 16, 16)),
     PartSpec("Link_1-1_Mesh", "Link_1-1_Mesh.OBJ", "link_1_res.csv", "link_1", "Base-1_Mesh", (210, 60, 60)),
     PartSpec("Link_2-2_Mesh", "Link_2-2_Mesh.OBJ", "link_2_res.csv", "link_2", "Link_1-1_Mesh", (235, 170, 55)),
     PartSpec("Link_3-1_Mesh", "Link_3-1_Mesh.OBJ", "link_3_res.csv", "link_3", "Link_2-2_Mesh", (65, 135, 220)),

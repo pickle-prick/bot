@@ -10,6 +10,13 @@ from dataclasses import dataclass
 type Color = tuple[int,int,int]
 setattr(np, "infty", np.inf)
 
+OBJ_TO_SCENE_BASIS = (
+    (1.0, 0.0, 0.0, 0.0),
+    (0.0, 0.0, 1.0, 0.0),
+    (0.0, 1.0, 0.0, 0.0),
+    (0.0, 0.0, 0.0, 1.0),
+)
+
 @dataclass(frozen=True)
 class PartSpec:
   name: str
@@ -69,9 +76,9 @@ def samples_from_csv(csv_path: str, prefix: str) -> list[PoseSample]:
         PoseSample(
           time_s=float(row["TIME"]),
           pos_mm=(
-            float(row[f"{prefix}_ox"]),
-            float(row[f"{prefix}_oy"]),
-            float(row[f"{prefix}_oz"])
+            0.1*float(row[f"{prefix}_ox"]),
+            0.1*float(row[f"{prefix}_oy"]),
+            0.1*float(row[f"{prefix}_oz"]),
           ),
           angles_deg=(
             float(row[f"{prefix}_e1"]),
@@ -145,6 +152,8 @@ def part_from_spec(spec: PartSpec):
   tri = trimesh.load(spec.obj_path, force="mesh", process=False)
   # if isinstance(tri, trimesh.Scene):
   #   tri = trimesh.util.concatenate(tuple(tri.geometry.values()))
+  basis = np.array(OBJ_TO_SCENE_BASIS, dtype=float)
+  tri.apply_transform(basis)
   color = tuple(channel / 255.0 for channel in spec.color_u32) + (1.0,)
   material = pyrender.MetallicRoughnessMaterial(
     baseColorFactor=color,
@@ -193,6 +202,7 @@ def main() -> int:
       tr_mat4 = mat4_from_translate(rest_pos)
       rot_mat4 = mat4_from_euler("313", rest_rot, True)
       pose = tr_mat4 @ rot_mat4
+      # pose = tr_mat4
     scene.add(part.mesh, pose=pose)
 
   viewer = pyrender.Viewer(
